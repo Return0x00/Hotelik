@@ -6,7 +6,6 @@ namespace Hotelik
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hotel");
         }
     }
 }
