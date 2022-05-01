@@ -6,8 +6,6 @@ namespace Hotelik
     {
         static void Main(string[] args)
         {
-            //gegegh
-            Console.WriteLine("s");
         }
     }
 }
